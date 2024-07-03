@@ -8,3 +8,4 @@ dependencies:
       - qiskit-aer
       - matplotlib
       - seaborn
+      - pennylane
