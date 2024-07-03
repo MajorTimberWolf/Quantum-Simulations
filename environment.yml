@@ -1,0 +1,10 @@
+name: quantum-simulations-env
+channels:
+  - defaults
+dependencies:
+  - python=3.11.9
+  - pip:
+      - qiskit==0.45.2
+      - qiskit-aer
+      - matplotlib
+      - seaborn
